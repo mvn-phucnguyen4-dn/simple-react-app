@@ -73,7 +73,7 @@ const Login = () => {
     <>
       <div className="loginOuterContainer">
         <div className="loginInnerContainer">
-          <h1 className="heading">Login</h1>
+          <h1 className="heading">Login hihi</h1>
           <form onSubmit={handleSubmit}>
             <div>
               <input
